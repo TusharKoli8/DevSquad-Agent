@@ -37,7 +37,6 @@ If passed → Final Report → END
 
 ## Architecture
 
-
 User Requirements
 
         |
