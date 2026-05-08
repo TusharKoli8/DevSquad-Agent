@@ -37,28 +37,46 @@ If passed → Final Report → END
 
 ## Architecture
 
----text
 
 User Requirements
+
         |
+        
         V
+        
 Developer Agent
+
         |
+        
         V
+        
 Review Agent
+
         |
+        
         V
+        
 QA Agent
         |
+        
         V
+        
  Routing Logic
+ 
    /        \
+   
   V          V
+  
 Fix Agent   Final Report
+
   |
+  
   V
+  
 Review Agent
+
   |
+  
  END
 
 ## Run
